@@ -22,7 +22,7 @@ export class Scoreboard extends React.Component {
     render() {
         return (
             <div className="game">
-                <h1>Recent games:</h1>
+                <h1>Tic-Toc-Toe React Game:</h1>
 
                 {/* List with previous games */}
                 <ul>
